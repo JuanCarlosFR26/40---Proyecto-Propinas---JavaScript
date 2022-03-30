@@ -1,0 +1,76 @@
+{
+    "platillos": [
+      {
+        "id": 1,
+        "nombre": "Pizza a la Leña Barbacoa",
+        "precio": 12,
+        "categoria": 1
+      },
+      {
+        "id": 2,
+        "nombre": "Pizza a la Leña Pulled Pork",
+        "precio": 12,
+        "categoria": 1
+      },
+      {
+        "id": 3,
+        "nombre": "Tosta a la Reina",
+        "precio": 6.50,
+        "categoria": 3
+      },
+      {
+        "id": 4,
+        "nombre": "Rebanada de Pastel de Chocolate",
+        "precio": 4.50,
+        "categoria": 3
+      },
+      {
+        "id": 5,
+        "nombre": "Zumo de Naranja",
+        "precio": 2.20,
+        "categoria": 2
+      },
+      {
+        "id": 6,
+        "nombre": "Pizza a la Leña Margarita",
+        "precio": 12.50,
+        "categoria": 1
+      },
+      {
+        "id": 7,
+        "nombre": "Rib Eye 800g",
+        "precio": 20.20,
+        "categoria": 1
+      },
+      {
+        "id": 8,
+        "nombre": "Coca-Cola Zero",
+        "precio": 2.00,
+        "categoria": 2
+      },
+      {
+        "id": 9,
+        "nombre": "Tequila",
+        "precio": 3.80,
+        "categoria": 2
+      },
+      {
+        "id": 10,
+        "nombre": "Rebanada de Pay de Queso",
+        "precio": 15.40,
+        "categoria": 3
+      },
+      {
+        "id": 11,
+        "nombre": "Café Americano",
+        "precio": 1.40,
+        "categoria": 2
+      },
+      {
+        "id": 12,
+        "nombre": "Café Capuchino",
+        "precio": 2.10,
+        "categoria": 2
+      }
+    ]
+  }
